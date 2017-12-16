@@ -6381,6 +6381,7 @@ $wgConf->settings = array(
 		'make717wiki' => "//$wmgUploadHostname/make717wiki/thumb/f/fc/Make717_Logo.png/150px-Make717_Logo.png",
 		'maiasongcontestwiki' => "//$wmgUploadHostname/maiasongcontestwiki/b/bc/Sitelogo.png",
 		'makeiteasyautoswiki' => "//$wmgUploadHostname/makeiteasyautoswiki/0/01/Miea.png",
+		'maktabawiki' => "//$wmgUploadHostname//maktabawiki/b/b3/Maklogo1.png",
 		'malaysiawiki' => "//$wmgUploadHostname/malaysiawiki/1/1d/Malaysian_flag_round135.png",
 		'marinebiodiversitymatrixwiki' => "//$wmgUploadHostname/marinebiodiversitymatrixwiki/3/34/IUCN_logo_transparent_WICKI_web.jpg",
 		'mawikimaisonwiki' => "//$wmgUploadHostname/mawikimaisonwiki/3/33/Wikihouse.png",
